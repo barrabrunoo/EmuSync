@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="EmuSync" src="https://github.com/user-attachments/assets/ad680f07-5381-46a5-b119-0bf3b743c654" />
+
 # EmuSync 🎮☁️
 
 **EmuSync** is a lightweight, background-running Windows system tray application designed to automatically synchronize your emulator save files (such as PCSX2 memory cards) with Google Drive. Say goodbye to manual backups and keep your game progress safe across devices!
