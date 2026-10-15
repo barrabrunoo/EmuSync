@@ -1,4 +1,5 @@
 <meta name="google-site-verification" content="KaE8TO4mLJNaHP-ttL_vqiRCFdJCGVNOZF3xpay5ovE" />
+
 <img width="1408" height="768" alt="EmuSync" src="https://github.com/user-attachments/assets/ad680f07-5381-46a5-b119-0bf3b743c654" />
 
 # EmuSync 🎮☁️
